@@ -1,1 +1,21 @@
+/* https://coolors.co/181f1c-274029-315c2b-60712f-9ea93f */
+/* #181f1c #274029 #315c2b #60712f #9ea93f */
+body {
+  background: #181f1c;
+  color: #9ea93f;
+}
 
+div.container {
+  max-width: 800px;
+  background: #274029;
+  margin: auto;
+  padding: 20px;
+  min-height: 70vh;
+}
+
+div.board {
+  max-width: 500px;
+  background: #315c2b;
+  margin: auto;
+  padding: 20px;
+}
